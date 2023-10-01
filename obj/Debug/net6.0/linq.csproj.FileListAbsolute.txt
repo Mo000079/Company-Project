@@ -1,0 +1,14 @@
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\linq.exe
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\linq.deps.json
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\linq.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\linq.dll
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\linq.pdb
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\linq.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\linq.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\linq.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\linq.dll
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\refint\linq.dll
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\linq.pdb
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\linq.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\ref\linq.dll

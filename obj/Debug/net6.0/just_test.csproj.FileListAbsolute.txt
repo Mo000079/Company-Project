@@ -1,0 +1,14 @@
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\just_test.exe
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\just_test.deps.json
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\just_test.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\just_test.dll
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\just_test.pdb
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\just_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\just_test.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\just_test.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\just_test.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\just_test.dll
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\refint\just_test.dll
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\just_test.pdb
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\just_test.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\ref\just_test.dll

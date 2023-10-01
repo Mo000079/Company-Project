@@ -1,0 +1,14 @@
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\Company.exe
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\Company.deps.json
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\Company.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\Company.dll
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\bin\Debug\net6.0\Company.pdb
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\Company.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\Company.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\Company.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\Company.dll
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\refint\Company.dll
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\Company.pdb
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\Company.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\mooo\c#\just test\just test\obj\Debug\net6.0\ref\Company.dll
